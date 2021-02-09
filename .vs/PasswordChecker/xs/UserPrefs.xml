@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{2249951C-CBA4-45C2-8326-7F1BC6242AB8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tools.cs">
     <Files>
-      <File FileName="Program.cs" Line="13" Column="1" />
+      <File FileName="Program.cs" Line="22" Column="27" />
+      <File FileName="Tools.cs" Line="33" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.PasswordChecker FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PasswordChecker PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
