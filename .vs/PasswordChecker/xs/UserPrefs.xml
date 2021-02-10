@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{2249951C-CBA4-45C2-8326-7F1BC6242AB8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tools.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="22" Column="27" />
-      <File FileName="Tools.cs" Line="33" Column="2" />
+      <File FileName="Program.cs" Line="24" Column="51" />
+      <File FileName="Tools.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.PasswordChecker PreferredExecutionTarget="MonoDevelop.Default" />

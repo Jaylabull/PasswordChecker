@@ -21,7 +21,7 @@ namespace PasswordChecker
             //TESTING PASSWORD
             int score = 0;
 
-            if (userPassword.Length >= minLength)
+            if (userPassword.Length >= minLength) 
             {
                 score++;
             }
@@ -59,8 +59,11 @@ namespace PasswordChecker
                 case 2:
                     Console.WriteLine("Password is medium.");
                     break;
-                default:
+                case 1:
                     Console.WriteLine("Password is weak.");
+                    break;
+                default:
+                    Console.WriteLine("Password does not meet standards. Please enter new password.");
                     break;
                 
             }
